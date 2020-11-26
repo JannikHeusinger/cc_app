@@ -1,2 +1,2 @@
 # cc_app
-CC_app is a learning app for pupils and students about climate change topics and currently under construction. The current version is made with Matlab Appdesigner.
+CC_app is a learning app for pupils and students about climate change topics, currently under construction. The current version is made with Matlab Appdesigner. A manual including background information is in the making as well.
